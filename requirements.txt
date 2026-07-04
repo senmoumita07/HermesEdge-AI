@@ -1,0 +1,11 @@
+streamlit
+plotly
+pandas
+numpy
+opencv-python-headless
+ultralytics
+Pillow
+PyYAML
+scipy
+matplotlib
+openpyxl
