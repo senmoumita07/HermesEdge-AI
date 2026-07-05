@@ -8,6 +8,8 @@ Pillow
 PyYAML
 scipy
 matplotlib
-openpyxlz
+openpyxl
 streamlit-webrtc
 av
+torch
+torchvision
