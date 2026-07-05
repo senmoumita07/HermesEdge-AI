@@ -37,8 +37,8 @@ st.title("🚗 Live Drive AI")
 st.markdown("---")
 
 
-st.subheader("📹 Live Camera")
-start_camera()
+if st.button("📹 Start Live Camera"):
+      start_camera()
 
 
 uploaded_video = st.file_uploader(
